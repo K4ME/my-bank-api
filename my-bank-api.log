@@ -1,0 +1,14 @@
+2020-04-30T22:16:44.418Z [my-bank-api] info: API started!
+2020-04-30T22:16:51.431Z [my-bank-api] info: GET /account
+2020-04-30T22:25:54.170Z [my-bank-api] info: POST /account/create/:name/:balance - {"id":1,"name":"Guilherme","balance":3000}
+2020-04-30T22:26:00.263Z [my-bank-api] info: GET /account
+2020-04-30T22:26:08.080Z [my-bank-api] info: GET /account/consult/:id - " 1
+2020-04-30T22:26:31.125Z [my-bank-api] info: POST /account/create/:name/:balance - {"id":2,"name":"Gustavo","balance":500}
+2020-04-30T22:26:34.826Z [my-bank-api] info: GET /account
+2020-04-30T22:28:42.618Z [my-bank-api] info: GET /account/consult/:id - " 1
+2020-04-30T22:29:53.028Z [my-bank-api] info: GET /account
+2020-04-30T22:30:28.646Z [my-bank-api] info: GET /account
+2020-04-30T22:30:43.669Z [my-bank-api] info: GET /account
+2020-04-30T22:31:05.140Z [my-bank-api] info: GET /account
+2020-04-30T22:34:16.061Z [my-bank-api] info: DELETE /account/delete/:id - " 2
+2020-04-30T22:34:20.369Z [my-bank-api] info: GET /account
